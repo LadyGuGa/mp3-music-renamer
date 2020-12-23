@@ -1,0 +1,14 @@
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\ForceMusicRenamer.exe.config
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\ForceMusicRenamer.exe
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\ForceMusicRenamer.pdb
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\TagLibSharp.dll
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\TagLibSharp.pdb
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\bin\Debug\TagLibSharp.xml
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.csprojAssemblyReference.cache
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.MainWindow.resources
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.Properties.Resources.resources
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.csproj.GenerateResource.cache
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.csproj.CoreCompileInputs.cache
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.csproj.CopyComplete
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.exe
+D:\Projects\ForceMusicRenamer\ForceMusicRenamer\obj\Debug\ForceMusicRenamer.pdb
